@@ -1,0 +1,4 @@
+python-dotenv==1.2.4
+pillow==13.0.0
+pynput==1.8.2
+anthropic==2.3.0
